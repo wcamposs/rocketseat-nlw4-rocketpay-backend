@@ -1,5 +1,9 @@
 # Rocketpay
 
+To start docker:
+
+  * docker run --name postgres -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
