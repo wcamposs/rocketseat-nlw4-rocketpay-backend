@@ -1,5 +1,9 @@
 # Rocketpay
 
+## Setup:
+
+* https://www.notion.so/Configura-es-do-ambiente-Elixir-f823443de76840cbbcb8ab1db8aa4667
+
 To start docker:
 
   * docker run --name postgres -e POSTGRES_PASSWORD=postgres -p 5432:5432 -d postgres
